@@ -1,0 +1,33 @@
+#main{
+    text-align:center;
+    font-family:sans-serif;
+  }
+  #tittle{
+    margin:auto;
+    border:white solid;
+    border-radius:10px;
+  background-color: lightgray;
+    font-size:20px;
+  }
+  #img-div{
+    display:block;
+    max-width:100%;
+    padding:0px auto auto 5px;
+    background-color:white;
+    margin: 1px 1px 1px 1px;
+    }
+  #tribute-info
+  {
+    margin: 2px 2px 2px 2px;
+    padding:3px;
+    text-align:center;
+    background-color:lightgray;
+    
+  }
+  ul{
+    text-align:left;
+    font-family:arial;
+    font-size:0.9em;
+   
+  }
+  
